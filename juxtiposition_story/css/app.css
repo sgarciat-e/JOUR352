@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&display=swap');
+
+body {
+  background: #fff7fb;
+  font-family: "Poppins", sans-serif;
+  color: #5a0044;
+  margin: 0;
+  padding: 0;
+}
+
+
+div {
+  border-radius: 12px;
+  padding: 10px;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 3rem;
+  color: #b3007a;
+  margin-bottom: 10px;
+}
+
+h2.subheader {
+  color: #cc4c9c;
+  font-weight: 400;
+}
+
+h3, h4 {
+  color: #b3007a;
+  font-weight: 600;
+}
+
+
+.callout.large.primary {
+  background: linear-gradient(135deg, #ffd6ea, #ffeaf6);
+  box-shadow: 0 4px 12px rgba(255, 140, 187, 0.4);
+  border-radius: 18px;
+}
+
+
+.blog-post {
+  background: #ffffff;
+  padding: 25px;
+  margin-top: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(255, 182, 218, 0.35);
+}
+
+.blog-post .callout {
+  background: #ffe0f0;
+  border-radius: 12px;
+}
+
+
+a {
+  color: #e60088;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #b3006b;
+  text-decoration: underline;
+}
+
+
+iframe {
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(180, 0, 110, 0.25);
+  margin-top: 15px;
+}
+
+.row {
+  background: #fffaff;
+  padding: 15px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+}
