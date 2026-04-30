@@ -1,0 +1,142 @@
+
+body {
+  background-color: #fff8f2;
+  color: #2d2433;
+  font-family: Georgia, 'Times New Roman', serif;
+  margin: 0;
+}
+
+.top-bar {
+  background-color: #2d2433;
+}
+
+.top-bar ul {
+  background-color: #2d2433;
+}
+
+.menu-text {
+  color: #ffb6c1;
+  font-weight: bold;
+}
+
+.menu a {
+  color: white;
+}
+
+.menu a:hover {
+  color: #ffd166;
+}
+
+.callout.primary {
+  background-color: #f7c6d9;
+  color: #2d2433;
+  border: none;
+  padding: 45px 20px;
+}
+
+.callout h1 {
+  font-size: 42px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.callout p {
+  font-weight: bold;
+  color: #5b4b8a;
+}
+
+.subheader {
+  color: #4a3b52;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+
+.row {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1 {
+  color: #d94f70;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', serif;
+  margin: 0;
+}
+h2 {
+  color: #d94f70;
+  font-weight: bold;
+}
+
+
+h3 {
+  color: #d94f70;
+  font-weight: bold;
+}
+
+h4 {
+  color: #5b4b8a;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+
+.thumbnail {
+  border: 4px solid white;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: #AFA0D8;
+  color: white;
+  font-weight: bold;
+
+}
+
+
+.button:hover {
+  background-color: #ff7a59;
+  color: white;
+}
+
+.button.hollow {
+  border: 2px solid #AFA0D8;
+  color: #2d2433;
+}
+
+.button.hollow:hover {
+  background-color: #AFA0D8;
+  color: white;
+}
+
+/* THIS is the important part */
+.button,
+.button:link,
+.button:visited,
+.button:hover,
+.button:active {
+  color: #d94f70 !important;
+}
+
+.blog-post {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-left: 6px solid #ffd166;
+}
+
+hr {
+  border-bottom: 2px solid #ffd166;
+  margin: 30px 0;
+}
+
+a {
+  color: #d94f70;
+}
+
+a:hover {
+  color: #ff7a59;
+}
