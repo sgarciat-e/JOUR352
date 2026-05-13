@@ -261,3 +261,45 @@ body {
   font-size: 0.95rem;
   padding: 15px 18px;
 }
+
+/* SIDEBAR */
+
+.sidebar {
+  background-color: #fff0df;
+  border-left: 6px solid #e8691c;
+  padding: 20px;
+  margin: 25px 0;
+  font-size: 0.95rem;
+}
+
+.sidebar h4 {
+  color: #8a3a18;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.sidebar h4:first-child {
+  margin-top: 0;
+}
+
+.sidebar ul {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.sidebar li {
+  margin-bottom: 8px;
+}
+
+.sidebar a {
+  color: #e8691c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  color: #8a3a18;
+  text-decoration: underline;
+}
